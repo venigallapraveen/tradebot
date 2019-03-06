@@ -28,7 +28,7 @@
           </b-nav-item>
 
           <b-nav-item href="#" @click="stopTrading" class="stop_trading">
-            <span class="hover_red">Stop Trading</span>
+            <span class="hover_red">End Day</span>
           </b-nav-item>
 
           <b-nav-item-dropdown text="Settings" right>
